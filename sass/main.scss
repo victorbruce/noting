@@ -4,5 +4,13 @@
 // Base
 @import 'base/base';
 
+// Components 
+@import 'components/header';
+@import 'components/sidebar';
+@import 'components/icons';
 
+// Layouts
+@import 'layouts/container';
 
+// Pages
+@import 'pages/home';
